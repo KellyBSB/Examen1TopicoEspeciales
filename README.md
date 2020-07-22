@@ -41,7 +41,10 @@ personas pertenecientes al gurpo.
 4. En el chat podrá comunicarse con las personas del grupo de manera textual o mediante imagenes, en los tres puntitos de la parte superior derecha se encuentra el menu en donde hay la opción de cerrar sección.
 ~~~
 ![Chatapp](https://user-images.githubusercontent.com/38759833/88230362-e413ec80-cc37-11ea-9be5-69cfc83dfd6f.PNG)
-
+~~~
+4.1 Menu del chat, en donde puede cerrar sección
+~~~
+![menuchatapp](https://user-images.githubusercontent.com/38759833/88230701-816f2080-cc38-11ea-8428-b5681c165780.PNG)
 
 ##  Fuentes de referencia
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
