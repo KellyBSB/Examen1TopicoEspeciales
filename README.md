@@ -1,4 +1,4 @@
-# Examen1TopicoEspecia
+# Examen1TópicosEspeciales
 ## Explicación del proyecto y sus funcionalidades
     Explicación
 - :computer: El proyecto consiste en realizar una aplicación con Android Studio y Firebase, en la cual permita a un usuario interactuar  con uno o varios usuarios mediante mensajes de texto y fotos.
