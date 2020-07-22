@@ -37,6 +37,11 @@ llevara a la ventana del chat, en donde podra comunicarse con las demás
 personas pertenecientes al gurpo.
 ~~~
 ![registrarapp](https://user-images.githubusercontent.com/38759833/88229753-e7f33f00-cc36-11ea-9c30-11febf2d58cb.PNG)
+~~~
+4. En el chat podrá comunicarse con las personas del grupo de manera textual o mediante imagenes, en los tres puntitos de la parte superior derecha se encuentra el menu en donde hay la opción de cerrar sección.
+~~~
+![Chatapp](https://user-images.githubusercontent.com/38759833/88230362-e413ec80-cc37-11ea-9be5-69cfc83dfd6f.PNG)
+
 
 ##  Fuentes de referencia
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
