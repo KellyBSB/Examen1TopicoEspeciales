@@ -19,6 +19,10 @@ Se probo en las APIs 27, 28, 29, 30
 ##  Modelos de celulares y tablets que fueron probados y su respectiva API.
 ##  Explicación de lo más importante del código 
 ##  Manual de uso
+~~~
+Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
+~~~
+(![inicioapp](https://user-images.githubusercontent.com/38759833/88229096-ccd3ff80-cc35-11ea-8701-9da357128787.PNG))
 ##  Fuentes de referencia
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
 - :clock2: [Creación de chat](https://www.youtube.com/watch?v=DFnxY_PEnYY&list=LL&index=14)
