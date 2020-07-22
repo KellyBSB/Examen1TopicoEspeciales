@@ -25,10 +25,19 @@ Se probo en las APIs 27, 28, 29, 30
 (![inicioapp](https://user-images.githubusercontent.com/38759833/88229096-ccd3ff80-cc35-11ea-8701-9da357128787.PNG))
 ~~~
 2. La app inicia en la parte del login, en el caso de ya estar registrado, 
-llegar los campos correspondientes, después hacer clic en el botón de login, 
-en el caso de no estar registrado hacer clic en el botón registrar.
+llegar los campos correspondientes de manera obligatoria, caso contrario la 
+app no seguir, después hacer clic en el botón de login, en el caso de no estar
+registrado hacer clic en el botón registrar.
 ~~~
 ![Loginapp](https://user-images.githubusercontent.com/38759833/88229404-4c61ce80-cc36-11ea-818a-9ecc34d9e644.PNG)
+~~~
+3. Para registrarse es necesario llenar los tres de manera obligatoria caso 
+contrario la app no dejara continuar, una vez registrado en Firebase, le 
+llevara a la ventana del chat, en donde podra comunicarse con las demás 
+personas pertenecientes al gurpo.
+~~~
+![registrarapp](https://user-images.githubusercontent.com/38759833/88229753-e7f33f00-cc36-11ea-9c30-11febf2d58cb.PNG)
+
 ##  Fuentes de referencia
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
 - :clock2: [Creación de chat](https://www.youtube.com/watch?v=DFnxY_PEnYY&list=LL&index=14)
