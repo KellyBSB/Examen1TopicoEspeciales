@@ -26,6 +26,11 @@ Es necesario que en la base de datos de Firebase las reglas esten de la siguient
 Es necesario que en el Storage de Firebase las reglas esten de la siguiente manera.
 ~~~
 ![permisosestorage](https://user-images.githubusercontent.com/38759833/88232301-3d314f80-cc3b-11ea-95a3-66a65acced40.png)
+~~~
+Permisos que se deben incluir en el AndroidManifest.xml
+~~~
+![usespermission](https://user-images.githubusercontent.com/38759833/88232654-dd877400-cc3b-11ea-8fc7-0635a858ab48.png)
+
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
