@@ -18,6 +18,10 @@ APIs en las que se probo
 - Se probo en las APIs 23,24,25,27, 28,30
 ![apisapp](https://user-images.githubusercontent.com/38759833/88232811-263f2d00-cc3c-11ea-8c03-d0aa8688d49e.PNG)
 ##  Modelos de celulares y tablets que fueron probados y su respectiva API.
+~~~
+Modelos y sus respecrtivas APIs
+~~~
+![apisapp](https://user-images.githubusercontent.com/38759833/88235616-db73e400-cc40-11ea-84c6-4298825d05c1.PNG)
 ##  Explicación de lo más importante del código 
 ~~~
 Es necesario que en la base de datos de Firebase las reglas esten de la siguiente manera.
