@@ -15,7 +15,7 @@ Se desarrolo en un API 22
 ~~~
 APIs en las que se probo
 ~~~
-Se probo en las APIs 27, 28, 29, 30
+- Se probo en las APIs 27, 28, 29, 30
 ![apisapp](https://user-images.githubusercontent.com/38759833/88232811-263f2d00-cc3c-11ea-8c03-d0aa8688d49e.PNG)
 ##  Modelos de celulares y tablets que fueron probados y su respectiva API.
 ##  Explicación de lo más importante del código 
