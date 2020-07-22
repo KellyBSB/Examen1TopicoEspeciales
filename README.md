@@ -22,7 +22,10 @@ Se probo en las APIs 27, 28, 29, 30
 Es necesario que en la base de datos de Firebase las reglas esten de la siguiente manera.
 ~~~
 ![Reglas del database del Firebase](https://user-images.githubusercontent.com/38759833/88232066-d875f500-cc3a-11ea-9a3e-ea108ef0915e.png)
-
+~~~
+Es necesario que en el Storage de Firebase las reglas esten de la siguiente manera.
+~~~
+![permisosestorage](https://user-images.githubusercontent.com/38759833/88232301-3d314f80-cc3b-11ea-95a3-66a65acced40.png)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
