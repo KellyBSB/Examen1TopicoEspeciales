@@ -20,9 +20,15 @@ Se probo en las APIs 27, 28, 29, 30
 ##  Explicación de lo más importante del código 
 ##  Manual de uso
 ~~~
-Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
+1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
 ~~~
 (![inicioapp](https://user-images.githubusercontent.com/38759833/88229096-ccd3ff80-cc35-11ea-8701-9da357128787.PNG))
+~~~
+2. La app inicia en la parte del login, en el caso de ya estar registrado, 
+llegar los campos correspondientes, después hacer clic en el botón de login, 
+en el caso de no estar registrado hacer clic en el botón registrar.
+~~~
+![Loginapp](https://user-images.githubusercontent.com/38759833/88229404-4c61ce80-cc36-11ea-818a-9ecc34d9e644.PNG)
 ##  Fuentes de referencia
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
 - :clock2: [Creación de chat](https://www.youtube.com/watch?v=DFnxY_PEnYY&list=LL&index=14)
