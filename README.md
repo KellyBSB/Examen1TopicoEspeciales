@@ -45,8 +45,12 @@ personas pertenecientes al gurpo.
 4.1 Menu del chat, en donde puede cerrar sección
 ~~~
 ![menuchatapp](https://user-images.githubusercontent.com/38759833/88230701-816f2080-cc38-11ea-8428-b5681c165780.PNG)
+~~~
+4.2 Al hacer clic en la imagen se puede cambiar la foto de perfil
+~~~
+![chatusoperfilapp](https://user-images.githubusercontent.com/38759833/88230813-b2e7ec00-cc38-11ea-904e-b2b970a9d247.PNG)
 
-##  Fuentes de referencia
+##  Fuentes de referencia 
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
 - :clock2: [Creación de chat](https://www.youtube.com/watch?v=DFnxY_PEnYY&list=LL&index=14)
 - :clock3: [Base de datos en tiempo real Firebase - Android Studio](https://www.youtube.com/watch?v=7-LrsDclHeY&list=LL&index=5)
