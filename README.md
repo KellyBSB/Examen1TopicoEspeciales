@@ -38,7 +38,9 @@ personas pertenecientes al gurpo.
 ~~~
 ![registrarapp](https://user-images.githubusercontent.com/38759833/88229753-e7f33f00-cc36-11ea-9c30-11febf2d58cb.PNG)
 ~~~
-4. En el chat podrá comunicarse con las personas del grupo de manera textual o mediante imagenes, en los tres puntitos de la parte superior derecha se encuentra el menu en donde hay la opción de cerrar sección.
+4. En el chat podrá comunicarse con las personas del grupo de manera textual o 
+mediante imagenes, en los tres puntitos de la parte superior derecha se encuentra 
+el menu en donde hay la opción de cerrar sección.
 ~~~
 ![Chatapp](https://user-images.githubusercontent.com/38759833/88230362-e413ec80-cc37-11ea-9be5-69cfc83dfd6f.PNG)
 ~~~
@@ -49,7 +51,12 @@ personas pertenecientes al gurpo.
 4.2 Al hacer clic en la imagen se puede cambiar la foto de perfil
 ~~~
 ![chatusoperfilapp](https://user-images.githubusercontent.com/38759833/88230813-b2e7ec00-cc38-11ea-904e-b2b970a9d247.PNG)
-
+~~~
+4.3 en la parte izquierda al hacer clic encima de la imagen podrá elegir 
+la imagen para mandar en el chat, en la parte central podra enviar un mensaje 
+textual, y la parte derecha esta el botón para enviar el mensaje.
+~~~
+![chatusoapp](https://user-images.githubusercontent.com/38759833/88230927-e62a7b00-cc38-11ea-86d3-65901c8dd536.PNG)
 ##  Fuentes de referencia 
 - :clock1: [Registro - Login - Chat](https://www.youtube.com/watch?v=VVGuTDjsgcw&list=LL&index=12)
 - :clock2: [Creación de chat](https://www.youtube.com/watch?v=DFnxY_PEnYY&list=LL&index=14)
