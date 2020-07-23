@@ -54,6 +54,10 @@ Registro
 Envio de mensaje a la base de datos
 ~~~
 ![Envio mensaje](https://user-images.githubusercontent.com/38759833/88294860-57fad700-ccc2-11ea-8e46-3890cd3d16c4.PNG)
+~~~
+Se detalla que se muetra en el mensaje que se envia tanto el mensaje, la imagen y la hora.
+~~~
+![Contenido mensaje](https://user-images.githubusercontent.com/38759833/88295273-d0619800-ccc2-11ea-9a22-ee13ba69aacc.PNG)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
