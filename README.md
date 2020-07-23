@@ -20,7 +20,7 @@ APIs en las que se probo, se probo en las APIs 23,24,25,27, 28,30.
 ~~~
 Modelos y sus respecrtivas APIs
 ~~~
-![apisapp](https://user-images.githubusercontent.com/38759833/88235616-db73e400-cc40-11ea-84c6-4298825d05c1.PNG)
+![modelosapssapis](https://user-images.githubusercontent.com/38759833/88292996-005b6c00-ccc0-11ea-9251-fabe2b60475c.PNG)
 ##  Explicación de lo más importante del código 
 ~~~
 Es necesario que en la base de datos de Firebase las reglas esten de la siguiente manera.
