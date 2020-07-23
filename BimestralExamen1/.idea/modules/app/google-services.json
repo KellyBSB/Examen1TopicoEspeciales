@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029863912272",
+    "firebase_url": "https://bimestralexam-eec6a.firebaseio.com",
+    "project_id": "bimestralexam-eec6a",
+    "storage_bucket": "bimestralexam-eec6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029863912272:android:35576069ba660e8585f255",
+        "android_client_info": {
+          "package_name": "com.example.bimestralexamen1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029863912272-584cerv0eoiqtc15v5neohs9jhcq8jue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bimestralexamen1",
+            "certificate_hash": "8040cc3e5e8e082aaa015043e4d5b5d37b5b9518"
+          }
+        },
+        {
+          "client_id": "1029863912272-sdhnsjkt4dht6st7b2k5jv6gk45ktcaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UpYUGlcJZMY2rI4kP8AGbmyT7N3vcHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029863912272-sdhnsjkt4dht6st7b2k5jv6gk45ktcaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
