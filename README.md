@@ -13,9 +13,9 @@
 Se desarrolo en un API 22
 ![API 22](https://user-images.githubusercontent.com/38759833/88226720-1f132180-cc32-11ea-9f5c-8a1c432f7db2.png)
 ~~~
-APIs en las que se probo, se probo en las APIs 23,24,25,27, 28,30.
+APIs en las que se probo, se probo en las APIs 23,24,25,26,28.
 ~~~
-![apisapp](https://user-images.githubusercontent.com/38759833/88232811-263f2d00-cc3c-11ea-8c03-d0aa8688d49e.PNG)
+![apisapp](https://user-images.githubusercontent.com/38759833/88309911-a1542200-ccd4-11ea-9242-89a5945bbedf.PNG)
 ##  Modelos de celulares y tablets que fueron probados y su respectiva API.
 ~~~
 Modelos y sus respecrtivas APIs
