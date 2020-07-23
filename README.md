@@ -21,6 +21,7 @@ APIs en las que se probo, se probo en las APIs 23,24,25,26,28.
 Modelos y sus respecrtivas APIs
 ~~~
 ![modelo](https://user-images.githubusercontent.com/38759833/88310810-b9787100-ccd5-11ea-91d5-55afb0e30ac9.PNG)
+![modelos3](https://user-images.githubusercontent.com/38759833/88314722-f135e780-ccda-11ea-90fa-dfdf8c8727ea.PNG)
 ##  Explicación de lo más importante del código 
 ~~~
 Es necesario que en la base de datos de Firebase las reglas esten de la siguiente manera.
