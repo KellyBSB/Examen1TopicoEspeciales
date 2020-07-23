@@ -42,6 +42,10 @@ Entrar a galeria para obtener imagenes
 Traer nombre de usuario de la base de datos
 ~~~
 ![nombre de usuario](https://user-images.githubusercontent.com/38759833/88293653-e8d0b300-ccc0-11ea-8fb8-fd9878cb534c.PNG)
+~~~
+Login
+~~~
+![login](https://user-images.githubusercontent.com/38759833/88294155-87f5aa80-ccc1-11ea-9fe2-5d0c1c2c336d.PNG)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
