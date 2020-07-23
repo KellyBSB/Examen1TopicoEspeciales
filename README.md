@@ -34,6 +34,10 @@ Es necesario que en el Storage de Firebase las reglas esten de la siguiente mane
 Permisos que se deben incluir en el AndroidManifest.xml
 ~~~
 ![usespermission](https://user-images.githubusercontent.com/38759833/88232654-dd877400-cc3b-11ea-8fc7-0635a858ab48.png)
+~~~
+Entrar a galeria para obtener imagenes
+~~~
+![Geleria iamgenes](https://user-images.githubusercontent.com/38759833/88293233-5d572200-ccc0-11ea-9a19-855639dde98a.PNG)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
