@@ -50,6 +50,10 @@ Login
 Registro
 ~~~
 ![login](https://user-images.githubusercontent.com/38759833/88294350-be332a00-ccc1-11ea-88a9-1f6b915730d2.PNG)
+~~~
+Envio de mensaje a la base de datos
+~~~
+![Envio mensaje](https://user-images.githubusercontent.com/38759833/88294860-57fad700-ccc2-11ea-8e46-3890cd3d16c4.PNG)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
