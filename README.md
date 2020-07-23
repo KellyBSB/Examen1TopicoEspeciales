@@ -46,6 +46,10 @@ Traer nombre de usuario de la base de datos
 Login
 ~~~
 ![login](https://user-images.githubusercontent.com/38759833/88294155-87f5aa80-ccc1-11ea-9fe2-5d0c1c2c336d.PNG)
+~~~
+Registro
+~~~
+![login](https://user-images.githubusercontent.com/38759833/88294350-be332a00-ccc1-11ea-88a9-1f6b915730d2.PNG)
 ##  Manual de uso
 ~~~
 1. Al iniciar la aplicacion aparecerá un splash Screen, esperar hasta que inicie la app.
